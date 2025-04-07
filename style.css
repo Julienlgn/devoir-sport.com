@@ -206,6 +206,7 @@ button{
 .navqui ul li{
     padding: 0;
     margin: 0;
+    font-size: 0.6rem;
     
 }
 
@@ -299,9 +300,9 @@ hr{
         rgb(28, 28, 28) calc(50% - 340px),
 
         rgb(243, 243, 243) calc(50% - 340px),
-        rgb(243, 243, 243) calc(50% + 340px),
+        rgb(243, 243, 243) calc(50% + 341px),
 
-        rgb(28, 28, 28) calc(50% + 340px),
+        rgb(28, 28, 28) calc(50% + 341px),
         rgb(28, 28, 28) 100%
     );
     }
