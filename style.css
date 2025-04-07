@@ -206,15 +206,17 @@ button{
 .navqui ul li{
     padding: 0;
     margin: 0;
-    font-size: 0.6rem;
-    
 }
+ .navqui ul li a{
+    font-size: 0.6rem;
+ }
 
 .rond{
     width: 8px;
     height: 8px;
     border-radius: 50%;
     background-color: rgb(210, 210, 210);
+    top: 10px;
 }
 
 footer{
@@ -252,6 +254,7 @@ hr{
 
 .icons p{
     color: white ;
+    font-size: 0.6rem;
 }
 
 .social a, p{
@@ -261,6 +264,7 @@ hr{
 .social ul{
     gap: 30px;
 }
+
 .reseau nav{
     display: flex;
     flex-direction: row;
